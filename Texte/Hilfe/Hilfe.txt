@@ -1,0 +1,9 @@
+Das ist eine Hilfetext.
+Dieser Text soll dem Benutzer helfen, die Anwendung zu verstehen und zu bedienen.
+
+Hier finden Sie Anleitungen und Erklärungen zu den verschiedenen Funktionen der Anwendung.
+
+
+
+
+
